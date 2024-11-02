@@ -23,4 +23,3 @@ A2-B1
 
 ---
 ![Photo](photo.jpg)
----
