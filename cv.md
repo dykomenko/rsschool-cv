@@ -1,8 +1,10 @@
 ## About me
 
-**Name:**
+**Name**
 Dykomenko Kirill
-**Contacts:**
+
+
+**Contacts**
 - Telegram: [@dykomenko](https://t.me/dykomenko) 
 - Discord: [@dykomenko](https://discordapp.com/users/242366551041245185)
 
